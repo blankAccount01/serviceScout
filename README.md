@@ -1,6 +1,6 @@
 # About Service Scout
 
-A simple browser extension that lets you ping websites and see if they're up at a moment's notice. Taking a break between long projects.
+A simple browser extension that lets you ping websites and see if they're up at a moment's notice. Works with websites URLs and IPv4 addresses. Taking a break between long projects. Use the top search bar to ping a website and store up to 3 websites to automatically ping when you open the extension.
 
 # Screenshots
 Main extension page<br>
